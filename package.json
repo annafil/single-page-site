@@ -1,0 +1,19 @@
+{
+  "name": "Responsive",
+  "version": "0.0.0",
+  "description": "Simple one page app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annafil/single-page-site.git"
+  },
+  "author": "anna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annafil/single-page-site/issues"
+  },
+  "homepage": "https://github.com/annafil/single-page-site"
+}
